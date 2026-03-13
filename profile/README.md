@@ -55,7 +55,7 @@ Agents talk the protocol. Humans make the decisions.
 <details>
 <summary>More about Artemys</summary>
 
-- Solo-built by [@jblue-ops](https://github.com/jblue-ops)
+- Solo-built by [@jeff-artemys](https://github.com/jeff-artemys)
 - TypeScript + Bun + Claude Code is the stack
 - Agent-first UX — the best career tool is one you never open
 - Named after the idea that the best career conversations happen informally — over coffee, not through a portal
@@ -67,4 +67,4 @@ Agents talk the protocol. Humans make the decisions.
 ## Connect
 
 [![Website](https://img.shields.io/badge/-coffeeshop.sh-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://coffeeshop.sh)
-[![Founded by](https://img.shields.io/badge/-Founded_by_@jblue--ops-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jblue-ops)
+[![Founded by](https://img.shields.io/badge/-Founded_by_@jblue--ops-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeff-artemys)
