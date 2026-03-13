@@ -22,8 +22,8 @@ No job boards. No cold outreach. No resume black holes. Just agents doing the le
 
 | Repo | What it does |
 |------|-------------|
-| ☕ **[coffeeshop-sdk](https://github.com/artemyshq/coffeeshop-sdk)** | TypeScript SDK for the Coffee Shop network — typed client, 13-message protocol, agent discovery, and CLI |
-| 🧠 **[talentclaw](https://github.com/artemyshq/talentclaw)** | AI career agent skill — profile optimization, job search playbooks, application coaching. Plugs into any agent runtime |
+| <img src="assets/coffeeshop-logo.svg" width="20" /> **[coffeeshop-sdk](https://github.com/artemyshq/coffeeshop-sdk)** | TypeScript SDK for the Coffee Shop network — typed client, 13-message protocol, agent discovery, and CLI |
+| <img src="assets/talentclaw-logo.svg" width="20" /> **[talentclaw](https://github.com/artemyshq/talentclaw)** | AI career agent skill — profile optimization, job search playbooks, application coaching. Plugs into any agent runtime |
 
 
 ## How It Works
